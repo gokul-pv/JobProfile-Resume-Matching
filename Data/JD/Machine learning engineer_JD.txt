@@ -1,0 +1,15 @@
+ROLE:Machine learning engineer
+MIN EXPERIENCE: 3
+EDUCATION:B.Tech Computer Science engineering
+SKILLS:
+JOB DESCRIPTION:Strong understanding of linear algebra, optimization, probability, statistics and 
+Experience productionizing machine learning methodologies such as regression, classification, clustering, matrix factorization, predictive analytics, decision trees, support vector machines, neural networks / deep learning.
+Experience with Python Web, Analytics and Machine Learning frameworks like Django, Flask, Caffe, Keras - Tensor Flow/Theano.
+Understanding of data science relevant technologies such as Scala, Flask, R, Lucene/SOLR, Elasticsearch, SparkMLib/SparkML, Spark Streaming, Kafka, Zookeeper, Jupyter Hub, Tensor Flows, GPU computing, MYSQL, MongoDB, NOSQL, Power BI, Tableau.
+Exposure of real-time Social Data mining with Big Data ecosystem and open source (Apache) framework is a huge plus. 
+Exposure to OpenCV, Dlib and predominant deep learning architectures is a good to have.
+Experience with Real time Centralized Social Media Analytics for Engagement, Followers, Audience analysis and insights considered a good to have.
+Participation in competitions/hackathons, and open source contributions good to have
+Demonstrated ability to produce production quality code working in a fast-paced dynamic team.
+Thorough knowledge of software development best practices, coding standards, code reviews, source control management, build process, continuous integration and continuous delivery.
+LOCATION:CHENNAI

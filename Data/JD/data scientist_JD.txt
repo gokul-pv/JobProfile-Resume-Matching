@@ -1,0 +1,15 @@
+Data Scientist Job Description Template
+
+EDUCATION: B.Tech  Computer Science Engineering
+MIN EXPERIENCE: 5
+SKILLS: R, Python, SQL,machine learning techniques,statistical techniques and concepts, D3.js, GGplot, SQL, Hive, Pig, Excellent understanding of machine learning techniques and algorithms
+JOB DESCRIPTION:
+We are looking for a Data Scientist who will support our product, sales, leadership and marketing teams with insights gained from analyzing company data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+- Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc (depending on specific project requirements). Excellence in at least one of these is highly desirable.
+
+- Experience with data visualization tools such as D3.js, GGplot, etc.
+
+- Proficiency in using query languages such as SQL, Hive, Pig (actual list depends on what you are currently using in your company).
+
+- Experience with NoSQL databases, such as MongoDB, Cassandra, HBase (depending on project needs).
+LOCATION: NOIDA

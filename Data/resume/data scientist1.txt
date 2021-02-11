@@ -1,0 +1,49 @@
+DATA SCIENTIST
+DATA SCIENTIST - DATA SCIENTIST AT TATA CONSULTANCY SERVICES LTD
+Bengaluru, Karnataka
+YEARS OF EXPERIENCE: 6
+EDUCATION: B.Tech in ELECTRONICS AND TELECOMMUNICATION
+PROFESSIONAL EXPERIENCE: 
+DATA SCIENTIST(DATA SCIENTIST AT TATA CONSULTANCY SERVICES LTD)
+December 2016 to Present
+
+• Currently working as a data scientist in one of the leading banks in European market. 
+• Ability to mine hidden value from sets of structured, semi-structured and unstructured 
+data. 
+• Applied Exploratory Data Analysis before processing, cleansing, and verifying the integrity of data used for analysis. 
+• Creating and implementing data driven strategies that fuel growth including revenue and profits. 
+• Design and implement statistical / predictive models and machine learning algorithms 
+utilizing diverse sources of data. 
+• Experience working with stakeholders throughout the organization to identify 
+opportunities for leveraging company data and using predictive modelling to increase and optimize customer experiences, revenue generation and other business outcomes. 
+• Experience visualizing/presenting data for stakeholders using Tableau and ggplot2. 
+• Experience in credit risk modelling, analysis of different demographics of the applicant and model integration 
+APPLICATION ANALYST AT TATA CONSULTANCY SERVICES LTD
+technical lead
+PREDICTIVE MODELLING
+December 2013 to December 2016
+
+• Involved in analysis of the application/ system and providing insights on how well the customer requirement can be handled 
+• Plan, execute & manage implementation of project activities while monitoring and evaluating the same 
+ 
+PROJECTS 
+PREDICTIVE MODELLING: CREDIT RISK ANALYSIS 
+• Analyzed historic customers data for European based bank to build a predictive model for determining credit risk, given a demographic of the customers. Prepared a Tableau 
+Dashboard summarizing the analysis. Significantly decreased the loss (~20%) incurred by the company due to the credit risk. 
+• Data integrity required for analysis by using both internal and external data source. 
+• Used Challengers-Champion framework which includes the set of classifier techniques and the best classifier is used to distinguish good and bad customers. 
+• Analytical support lend on type of insurance products to be launched in the different 
+states if US based on the customer demographics in each state 
+ 
+LOSS GIVEN DEFAULT 
+• Worked closely with European based bank for developing model using Regression 
+Techniques like Multiple linear regression, Lasso and Ridge regression on dataset 
+specific to customers who had car loans. This analysis was aimed towards automating the loss estimation based on customer detail provided while applying for loan. 
+• Used Regression to loss estimation given that the customers is a defaulter, those are 
+eligible for loan amount so that they get to know what features are leading to defaults up to which amount. 
+• The analysis provided a basis for identifying which applicant and default variables are the key drivers for LGD
+
+SKILLS: d3.js node.js text mining sql r data analytics statistical analysis  python Machine learning graph algorithms graph multithreading data visualization tools, such as D3.js, GGplot, Tableau statistical testing, regression
+
+ACHIEVEMENTS:
+Achieved best employee award in previous organization

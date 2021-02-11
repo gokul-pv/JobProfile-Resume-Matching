@@ -1,0 +1,53 @@
+Machine learning developer
+Gurgaon, Haryana
+YEARS OF EXPERIENCE: 6
+EDUCATION: B.Tech  Computer Science Engineering
+PROFESSIONAL EXPERIENCE: Machine learning developer
+
+Experience productionizing machine learning methodologies such as regression, classification, clustering, matrix factorization, predictive analytics, decision trees, support vector machines, neural networks 
+Experience with Python Web, Analytics and Machine Learning frameworks like Django, Flask, Caffe, Keras - Tensor Flow
+Worked on  relevant technologies such as Scala, Flask, R, Lucene/SOLR, Elasticsearch, SparkMLib/SparkML, Spark Streaming, Kafka, Zookeeper, Jupyter Hub, Tensor Flows, GPU computing, MYSQL, MongoDB, NOSQL, Power BI, Tableau.
+Exposure of real-time Social Data mining with Big Data ecosystem and open source (Apache) framework 
+Exposure to OpenCV, Dlib and predominant deep learning architectures 
+Experience with Real time Centralized Social Media Analytics for Engagement, Followers, Audience analysis and insights 
+
+Demonstrated ability to produce production quality code working in a fast-paced dynamic team.
+Thorough knowledge of software development best practices, coding standards, code reviews, source control management, build process, continuous integration and continuous delivery.
+
+SKILLS: 
+Data Mining Techniques, Deep & Machine Learning,python ,R,ALGORITHMS
+Supervised- Linear Regression, Logistic Regression, Neural Network, Support Vector Machine, Decision Trees, Random forest classifier, Naive Bayes 
+Unsupervised- K-means clustering, Anomaly Detection, Recommender Engine, Non negative Matrix Factorization (NMF), Latent Dirichlet Allocation (LDA) ,Cosine Similarity
+
+
+
+ACHIEVEMENTS: Participated and won many competitions in analytics vidya and kaggle
+LINKS:
+http://linkedin.com/in/SonaliChawla58
+
+https://github.com/Sona58
+
+CERTIFICATIONS:
+Wiley Certified Big Data Analyst (WCBDA)
+
+September 2015 to Present
+
+License ALB-BDA-GUR-210915032
+
+PUBLICATIONS:
+An Experimental Study of Crime Investigation using Machine Learning
+
+https://ijircce.com/upload/2016/october/50_An.pdf
+
+October 2016
+
+Published in International Journal of Innovative Research in Computer and 
+Communication Engineering (IJIRCCE)
+
+A Review of the Concept of ISO Standard 9000 Family
+
+http://www.ijarcsse.com/docs/papers/Volume_5/6_June2015/V5I6-0516.pdf
+
+June 2015
+
+Published in International Journal of Advanced Research in Computer Science and Software Engineering (IJARCSSE)
