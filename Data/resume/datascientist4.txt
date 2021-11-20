@@ -1,0 +1,51 @@
+
+Data Analyst
+Pune, Maharashtra
+
+To enhance my working capacities, professional skills, business efficiency and to serve my orga- 
+nization in best possible way with sheer determination and commitment.
+
+YEARS OF EXPERIENCE: 7
+
+EDUCATION: B.Tech in Computer Science  Engineering
+PROFESSIONAL EXPERIENCE: 
+Data Analyst
+project -Loan Prediction Status
+October 2017 to December 2017
+worked on Classification Problem ,Decision Tree, Random Forest, Logistic Regression , R, RStudio, Python EDA, Data Preprocessing, Building Model, Validation
+
+Data Scientist
+ML Problem
+July 2017 to September 2017
+
+worked on Clustering Problem,Apriori Algorithm ,R, RStudio, Python ,EDA, Data Preprocessing, Building Model, Validation
+
+Assistant System Engineer
+Tata Consultancy Services, Ltd
+July 2011 to February 2013
+
+project-CUA-TCS-Bancs 
+platform-COBOL and UNIX Plateform 
+designation-Assistant System Engineer 
+Development, Testing, Deployment 
+ 
+Projects 
+Aug 2015-jun 2016 Design and Implementation of Secure and Reliable User data storage on cloud 
+It provides more reliable and secure technique to store user data on cloud environment which achieves 
+confidentiality and availability of data. The user data is encoded and dispersed on different computing 
+nodes. We have used OpenStack virtual instances as computing nodes. The original data can be 
+reconstructed from threshold number of fragments of its encoded form. 
+ 
+Aug 2010-May 2011 Desktop Monitoring System 
+It controls and monitors the activities of host in Intranet network, which is helpful for easily to control illegal activities from organization.
+
+SKILLS: COBOL (1 year), ALGORITHMS (Less than 1 year), C++ (Less than 1 year), DATA SCIENCE (Less than 1 year), DATA STRUCTURES  
+Data Science hands-on Areas-Regression, SVM, Random Forest, Decision Tree, Navie Bayes, KNN 
+Programming Languages Known- R, PYTHON, C, C++ (beginner), JAVA, HTML, COBOL, SERVLET, JSP 
+Database- MongoDB, MySQL, ORACLE 
+
+ACHIEVEMENTS :
+• 654 GATE SCORE and 1131 Rank among 1, 55, 190 (99.30 percentile) candidates in GATE 2014. 
+• Stood 3rd in HSC (12th) exam in school. 
+• Stood 2nd in SSC (10th) exam in school. 
+ 

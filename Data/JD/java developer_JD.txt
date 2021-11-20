@@ -1,0 +1,31 @@
+Java developer
+EDUCATION: B.tech  Computer Science Engineering
+MIN EXPERIENCE: 10
+SKILLS: 
+JOB DESCRIPTION: 
+Experience working with users to define requirements and demonstrate solutions
+experience (Weblogic\Websphere\JBOSS),JMS,JDBC,JPA\Hibernate
+Experience designing and delivering complex, highly-scalable software components
+Developing 100% automated unit tests 
+
+Agile development approach 
+
+Superior written/oral communication skills and problem solving skills; ability to communicate information to a variety of groups at different technical skill levels 
+
+Strong initiative: must be able to take a high-level requirement, ask questions/seek clarifications, and get the job done 
+
+Ability to work in a high-pressured, tight-deadline environment 
+
+Experience with WebLogic based environment is preferred 
+
+Must be able to multitask efficiently and progressively and work comfortably in an ever-changing data environment 
+
+Must work well in a team environment as well as independently 
+Design and implement JEE software applications in Tomcat\WebSphere Application Server\WebLogic\JBoss or related JEE server 
+
+Use modern software engineering IDEs including Eclipse, Rational Application Developer (RAD) for design, development, and testing the software 
+
+Work with users in an Agile development approach to understand and document requirements in JIRA, then elicit feedback and refine solution through demonstrations 
+
+Present the solution at formal and informal design reviews, and document the design according to the Government’s system lifecycle methodology 
+SALARY:20L PA

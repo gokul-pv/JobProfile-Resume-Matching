@@ -1,0 +1,34 @@
+Java 
+YEARS OF EXPERIENCE: 2
+PROFESSIONAL EXPERIENCE:
+Currently working as a Software Engineer in xxx Technologies, Bangalore from July 2009.
+Working as a Software Engineer in xxx Software Pvt Ltd, Bangalore from May 2007 to June 2009
+Presently I am associated with XXXX Technologies India as a Software programmer since July 2009 to Till Date.
+
+Project #1:
+Client : Real Estate Company.
+Environment	: Software Programmer
+Role	: Software Developer
+Duration : Dec 2009 to till date.
+Description:
+We have developed a System to Real Estate Company. In this system Office admin, Real Estate brokers and customers are the main roles. In this system customers will request for a property in a specific location and Brokers will add new properties in to the system from their locations. Office admin will assign/schedule a broker to the customer.
+EDUCATION: B.Tech  Electronics and Communication Engineeing
+SKILLS:
+excellent Java development skills using J2EE, J2SE, Servlets, JSP, EJB, JDBC, Sockets, JFC/Swing, Java Beans, Applets.
+Having hands on experience in handling Use Cases, Functional Specification, Knowledge Transfers and Business Analysis.
+Extensive Object Oriented Development OOP/OOD experience.
+Good working knowledge on Application development and maintenance life cycle process.
+Operating System	: Windows NT 2000/2003/XP, Linux and solaris
+Primary Skills	: JSP, Hibernate and EJB
+Languages	: C, C++, Java and Perl
+Scripting Languages	: JavaScript, Java Servlets, JMS and JSP.
+Web Servers : Web logic, IBM Web sphere
+
+ACHIEVEMENTS:
+I achieved sun certification on Java platform.
+Certified as a Scrum Master from Scrum Alliance
+
+
+
+
+

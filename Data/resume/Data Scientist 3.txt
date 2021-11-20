@@ -1,0 +1,35 @@
+Data Scientist
+
+A result-oriented professional with nearly 8 years of experience in Data Analysis & Forecasting 
+Currently associated with Verizon, Hyderabad as Data Scientist (Consultant) 
+
+YEARS OF EXPERIENCE: 8
+PROFESSIONAL EXPERIENCE: Data Scientist
+Verizon Data Services India - Hyderabad, Telangana
+August 2015 to Present
+Data Scientist
+Supporting  product, sales, leadership and marketing teams with insights gained from analyzing company data
+Used large data sets to find opportunities for product and process optimization
+Strong experience using a variety of data mining/data analysis methods
+Used a variety of data tools SUuch as R, Weka, NumPy, MatLab, etc for building and implementing models
+Used algorithms uch as k-NN, Naive Bayes, SVM, Decision Forests, etc. 
+Created simulations using MATLAB
+August 2014 to August 2015
+
+IHS, Bangalore as Information Analyst
+May 2013 to August 2014
+
+Short time weekly local market automotive sales volume prediction and automation of various SAS to R Projects.
+
+Data scientist
+
+Genpact - Bengaluru, Karnataka
+December 2011 to May 2013
+
+Hands on experience using  query languages such as SQL, Hive, Pig 
+Experience with NoSQL databases, such as MongoDB, Cassandra, HBase
+
+EDUCATION: B.Tech Computer Science Engineering
+SKILLS: R, Python, SQL,machine learning techniques,statistical techniques and concepts,D3.js, GGplot, SQL, Hive, Pig, machine learning techniques and algorithms
+ACHIEVEMENTS:President, AI club in current organization
+ 

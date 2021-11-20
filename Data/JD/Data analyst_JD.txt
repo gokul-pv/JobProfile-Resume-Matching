@@ -1,0 +1,32 @@
+ROLE: Data Analyst
+EDUCATION: B.Tech in Computer Science Engineering
+MIN EXPERIENCE: 5
+JOB DESCRIPTION: Use statistics, NLP and machine learning techniques to create scalable solutions for business problems 
+Analyze and extract relevant information from large amounts of both structured and unstructured data to help automate and optimize key processes 
+Design, experiment and evaluate highly innovative models for predictive learning 
+Work closely with software engineering teams to drive real-time model experiments, implementations and new feature creations 
+Work closely with operations staff to optimize various business operations 
+Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation 
+Track general business activity and provide clear, compelling management reporting on a regular basis 
+Research and implement novel machine learning and statistical approaches
+hands-on experience in predictive modeling and large data analysis 
+experience using R/SAS and SQL in a Linux/UNIX environment 
+experience with Python 
+Strong communication and data presentation skills 
+Strong problem solving ability 
+Use machine learning, data mining and statistical techniques to create new, scalable solutions for business problems 
+Analyze and extract relevant information from large amounts of Amazon's historical business data to help automate and optimize key processes 
+Design, develop and evaluate highly innovative models for predictive learning 
+Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation 
+Research and implement novel machine learning and statistical approaches 
+Industrial experience in predictive modeling and analysis, predictive software development 
+Strong Problem solving ability  
+Experience in using R, Matlab, or any other statistical software 
+Experience in mentoring junior team members, and guiding them on machine learning and data modeling applications 
+Strong communication and data presentation skills 
+Experience handling gigabyte and terabyte size datasets 
+Experience working with retail or e-commerce data 
+Experience working with distributed systems and grid computing 
+Publications or presentation in recognized Machine Learning and Data Mining journals/conferences
+SKILLS: Machine Learning SAS SQL R Python Data Analysis Software Engineering MATLAB NLP
+EMPLOYMENT TYPE: Permanent Job, Full Time

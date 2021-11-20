@@ -1,0 +1,17 @@
+
+Embedded Software Engineer
+Embedded Software Developement Systems - Bengaluru, Karnataka
+September 2016 to September 2017
+Bengaluru, Karnataka
+PROFILE SUMMARY:To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which enable me as a employee to grow while fulfilling organizational goals
+YEARS OF EXPERIENCE: 5
+Embedded Software Engineer
+PROFESSIONAL EXPERIENCE: Embedded C Unit testing with different IDE tool chains and cross compilers in Automotive applications
+EDUCATION: B.Tech  Computer Science Engineering
+
+SKILLS: Embedded linux,Embedded C,C,Python,Core Java (2 years)
+Programming Language: C, Embedded C, Core Java, Python 
+Operating System: Windows XP, Windows 7, Windows 8, Ubuntu, Tessy, Hitec-Tricore with ude debugger, Keil-ARMV5 with Microvision IDE,UMPS, CCS compiler, MATLAB, LABVIEW, OpenCV 
+ACHIEVEMENTS:Participant in ANALYTICS VIDYA HACKATHON 2015
+CERTIFICATIONS:Industrial Applications of Friendly ARM
+PUBLICATIONS:Automatic Irrigation and Worm detection for Peanut field using Raspbery Pi with OpenCV

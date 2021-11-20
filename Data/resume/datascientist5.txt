@@ -1,0 +1,74 @@
+Data Scientist
+Visakhapatnam, Andhra Pradesh
+YEARS OF EXPERIENCE: 4 
+PROFESSIONAL EXPERIENCE: Expertise using the usage of statistics, algorithms, modelling and data visualization. 
+Strong soft skills, particularly communication (written and verbal) and public speaking ability. 
+Outstanding knowledge in Insurance domain. 
+Some knowledge of healthcare domain 
+ 
+Worked in projects covering the following aspects: 
+ Prediction - Prediction of a numerical value using regression or CART. 
+ Classification - Using logistic regression or other off the shelf classifiers classification of data into classes. 
+ Recommendations - Clustering and collaborative filtering. 
+ Pattern detection and grouping - Labelling of the outcome variable with respect to unknown classes using k-means. 
+ Automated processes and decision-making - Classification to improve business decisions using various classifiers (SVM, logistic) 
+ Segmentation - Most useful in retail businesses using k-means. 
+ Forecasts - Useful in inventory management and streamlining revenue using time series.
+
+
+Data Scientist
+
+Weidbee Software Pvt Ltd
+April 2013 to March 2017
+
+Worked as Data Scientist/Analyst with Agriculture insurance company of India (Central Government Undertaking) from Apr 2013 to March 2017.
+
+Data Scientist
+
+The Agriculture Insurance Company of India
+April 2013 to March 2017
+
+Description 
+The Agriculture Insurance Company of India needs claim estimation for their Weather Based Crop Insurance Scheme (WBCIS) used for Horticultural crops. WBCIS is a component within PMFBY (Prime Minister's Fasal Bhima Yojana) . It is an Administrative insurance scheme for Loanee and non Loanee farmers. 
+ 
+Responsibilities 
+• Seek weather data from State Government 
+ 
+ Gathering the weather data and identifying the gaps and authenticity. Seek weather data from State Government 
+ Ensure data has high integrity (good data), quality (the right data), and is in optimal form and condition to guarantee accurate, reliable results. 
+ Perform data cleaning and look for gaps. 
+ Estimate claims based on the weather data of the current season for the next season 
+ Communicate the results to the management for using in their bidding process. 
+ 
+ Currently working on projects at Weidbee: 
+ 
+ Classification using decision trees, logistic regression, SVM and deep learning using H20 in R. Image recognition projects using CNN (Keras) framework with theano and tensor flow at backend. 
+ 
+Competitive projects involved 
+ 
+ Kaggle - All state claim prediction challenge - The objective of the Project is to predict the bodily injury liability insurance claim payments based on characteristics of the insured vehicle. Capstone project in INSOFE. 
+ 
+ Analytics Vidhya-Loan Prediction challenge II - Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments; those are eligible for loan amount so that they can specifically target these customers. 
+ Customer Segmentation - The purpose of this project is to segment and score customers from the point of sale (POS) data of multiple stores of a retail company. The client wants to develop an engine which segments and provides the score for customers based on their behaviour and analyse their purchasing pattern.
+
+Data Analyst
+
+Pujitha MultiSpeciality Hospital - Visakhapatnam, Andhra Pradesh
+August 2008 to July 2011
+
+Projects undertaken 
+ 
+Name: Weather Data - Claim Forecasting
+
+EDUCATION: B.Tech  Computer Science Engineering
+SKILLS: APACHE HADOOP HDFS (Less than 1 year), APACHE HBASE (Less than 1 year), Data Analytics (Less than 1 year), Data Science (Less than 1 year), Statistics (3 years)
+Additional Information
+Technical Expertise 
+ 
+Languages- R, Python 
+Database- Basic SQL 
+Platforms- Windows 
+Reporting Tool- R 
+Bigdata-Basics of Hadoop, HDFS, Hive, Pig, Hbase, Spark 
+Data Analytics-Data Science, Statistics, Machine Learning
+ACHIEVEMENTS: Participant in analytics vidhya machine learning hackathon 2016
